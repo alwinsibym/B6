@@ -1,3 +1,3 @@
 # B6
 
-https://alwinsibym.github.io/B6/
+https://github.com/alwinsibym/B6.git
